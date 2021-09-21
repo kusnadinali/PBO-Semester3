@@ -4,4 +4,4 @@ kumpulan kode PBO praktikum
 .
 .
 =====================================
- ~code berada pada folder src~
+ code berada pada folder src
